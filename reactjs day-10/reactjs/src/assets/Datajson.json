@@ -1,0 +1,12 @@
+{
+"products":[
+{
+     "name":"trousers",
+     "price":"2500"
+},{
+ "name":"shirt",
+     "price":"200"
+}
+]
+
+}
